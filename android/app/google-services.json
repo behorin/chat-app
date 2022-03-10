@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24564700622",
+    "project_id": "my-chat-a9b02",
+    "storage_bucket": "my-chat-a9b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24564700622:android:7880e0673615623afd879f",
+        "android_client_info": {
+          "package_name": "co.bjapp.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24564700622-0uchdokac812aa7rrpmdrodvbg8nvqld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LS0KOCqTK254WXpjfkEIXBSqa5J7l2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24564700622-0uchdokac812aa7rrpmdrodvbg8nvqld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
